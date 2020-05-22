@@ -1,0 +1,20 @@
+
+********************ERRO DE VERSÃO***********************************
+Abra o projeto no AndroidStudio deixe carregar totalmente o projeto baixado do git
+
+Depopis na aba "Gradle Scripts" clique na sub aba "build.gradle" aqui verificará 
+em qual versão o projeto foi desenvolvido.
+
+Depois abra um projeto feito particular e segue os mesmo passos anteriores
+e verifique qual a versão do seu AndroidStudio.
+
+Agora só trocar a versão do projeto que foi baixado do git para a versão 
+do seu androidStudio na parte do código 'com.android.tools.build:gradle:3.4.0-rc03'
+colocando igual igual a de um projeto particular desenvolvido no seu computador
+
+
+********************OUTROS**********************************
+Se acontecer um erro parecido com o do vídeo abaixo é só seguir os 
+passos a passos que o autor do vídeo executa que resolverá o problema
+
+https://www.youtube.com/watch?v=ce1WCblcuEA&lc=z232tzcgvvmmunxtnacdp435mj2131f00zo4jve3shdw03c010c
