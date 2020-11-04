@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40014498125",
+    "firebase_url": "https://borrachariaon-314fb.firebaseio.com",
+    "project_id": "borrachariaon-314fb",
+    "storage_bucket": "borrachariaon-314fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40014498125:android:912e35568f3d274ef9cf04",
+        "android_client_info": {
+          "package_name": "br.com.borrachariaon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40014498125-hl6op379495uldafkuk5d3q68f9eeoir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.borrachariaon",
+            "certificate_hash": "349e58effecc8ad6e7881e7dae1e137220f68514"
+          }
+        },
+        {
+          "client_id": "40014498125-949a9f0nudc1bmt5fps55q3vvumh3f79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOHqMLvLPyd4R9X9x9W4iAvtTrwOo6r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40014498125-949a9f0nudc1bmt5fps55q3vvumh3f79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
